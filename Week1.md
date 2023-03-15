@@ -92,3 +92,4 @@ loopback Network Interface
     국가, 기업 등이 운영  
     전세계 DNS는 연결되어 있음  
     장애 발생 시 막대한 피해로 이어짐  
+    
