@@ -1,4 +1,4 @@
-# 웹 기초 
+# 웹 기초d 
 ## 웹의 특징 
 html(hypertext mark up language)를 이용해 작성된 hypertex 문서를 web page라고 부른다. 이러한 web page들에 대하여 서로 관련된 내용으로 작성된 웹 페이지들의 집합아 바로 website이다. 이러한 웹페이지들은 hyperlink를 따라서 이동하게 되고, 이런 일련의 동작을 Web surfing이라고 부른다. 
 사용자가 web page를 검색하기 위해 사용하는 프로그램이 web browser이다. 
