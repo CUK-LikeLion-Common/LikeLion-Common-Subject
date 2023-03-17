@@ -1,0 +1,5 @@
+if [-f ./test_file.sh];
+then
+rm <file>
+	else
+
