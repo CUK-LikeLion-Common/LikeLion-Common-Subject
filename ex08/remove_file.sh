@@ -1,0 +1,1 @@
+rm -v remove.txt
