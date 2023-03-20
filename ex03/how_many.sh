@@ -1,6 +1,6 @@
 #!/bin/bash
 
-num=$(ls -1 | wc -l)
+num=$(ls -l | grep ^- | wc -l)
 
 echo $num 
 
