@@ -1,0 +1,2 @@
+rm file_.sh
+
