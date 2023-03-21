@@ -1,7 +1,7 @@
-if test -f './remove_file.sh'
+if test -f './file_.sh'
 then
 	echo 'remove File';
-	rm remove_file.sh;
+	rm file_.sh;
 else
 	echo 'already removed'
 fi
