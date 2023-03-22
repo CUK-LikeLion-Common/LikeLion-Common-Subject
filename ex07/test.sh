@@ -1,1 +1,3 @@
-test msg
+#! /bin/bash
+
+echo "test"
