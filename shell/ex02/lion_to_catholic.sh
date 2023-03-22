@@ -1,6 +1,6 @@
 
 #!/bin/bash
-echo $CUK$CUK2 | sed "s/LIKE/cat/g" | sed "s/lion/holic/g"	
+echo $CUK1$CUK2 | sed "s/$CUK1/cat/g" | sed "s/$CUK2/holic/g"	
 
 
 
